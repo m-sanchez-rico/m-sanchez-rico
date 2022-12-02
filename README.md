@@ -1,5 +1,5 @@
 - 👋 Hi mate, I’m @m-sanchez-rico
-- 👀 I’m interested in C++, python, ROS & Robotics.
+- 👀 I’m interested in Ubuntu, C++, python, ROS & Robotics.
 - 📫 Reach me on m.sanchez.rico@icloud.com
 
 <!---
